@@ -1,0 +1,1 @@
+This folder contains the intermediate data files created by the scripts.

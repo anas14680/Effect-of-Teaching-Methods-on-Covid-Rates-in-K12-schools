@@ -1,0 +1,60 @@
+StateName,StateAbbrev,NCESDistrictID,TimePeriodStart,TimePeriodEnd,StudentMaskPolicy,ActiveCasesStudents,EnrollmentTotal,PositivityRate
+Iowa,IA,1900009,10/26/20,12/04/20,Required full school year,0.0,649.8,0.0
+Iowa,IA,1900027,01/03/21,12/29/20,Required full school year,0.0,574.7,0.0
+Iowa,IA,1903270,01/03/21,12/29/20,Required at least part of school year,14.0,1101.6,0.012708787218591141
+Iowa,IA,1903540,01/03/21,12/29/20,Required at least part of school year,137.0,4458.1,0.030730580292052667
+Iowa,IA,1903960,01/03/21,12/29/20,Not required,0.0,483.2,0.0
+Iowa,IA,1904380,01/03/21,12/29/20,Required at least part of school year,0.0,427.8,0.0
+Iowa,IA,1904650,01/03/21,12/29/20,Required full school year,0.0,629.7,0.0
+Iowa,IA,1904740,03/05/21,04/27/21,Required at least part of school year,0.0,75.5,0.0
+Iowa,IA,1904860,04/15/21,04/28/21,Required at least part of school year,36.0,4384.4,0.008210929659702583
+Iowa,IA,1905070,01/03/21,12/29/20,Required at least part of school year,84.0,2339.0,0.03591278324070116
+Iowa,IA,1905970,01/03/21,12/29/20,Required full school year,0.0,101.5,0.0
+Iowa,IA,1906660,01/03/21,12/29/20,Required at least part of school year,81.0,1411.4,0.05738982570497378
+Iowa,IA,1906810,01/03/21,12/29/20,Required at least part of school year,13.0,1475.8,0.00880878167773411
+Iowa,IA,1907050,01/03/21,12/29/20,Required at least part of school year,89.0,1175.8,0.07569314509270285
+Iowa,IA,1907380,01/03/21,12/29/20,Required full school year,0.0,880.3,0.0
+Iowa,IA,1907410,01/03/21,12/29/20,Required full school year,20.0,1281.8,0.015603058199407084
+Iowa,IA,1907590,01/03/21,12/29/20,Required full school year,0.0,2600.7,0.0
+Iowa,IA,1907900,02/01/21,06/16/21,Required full school year,0.0,366.3,0.0
+Iowa,IA,1908070,01/03/21,12/29/20,Required at least part of school year,0.0,394.5,0.0
+Iowa,IA,1908220,01/03/21,12/29/20,Required at least part of school year,536.0,8347.3,0.06421238005103447
+Iowa,IA,1908730,10/26/20,11/11/20,Required full school year,0.0,1607.9,0.0
+Iowa,IA,1909990,01/03/21,12/29/20,Not required,0.0,904.9,0.0
+Iowa,IA,1910340,01/03/21,12/29/20,Required at least part of school year,22.0,371.0,0.05929919137466307
+Iowa,IA,1910500,10/26/20,11/22/20,Required full school year,0.0,482.0,0.0
+Iowa,IA,1911070,01/03/21,12/29/20,Required full school year,86.0,1153.9,0.07452985527342057
+Iowa,IA,1912120,03/31/21,11/22/20,Required at least part of school year,0.0,429.1,0.0
+Iowa,IA,1912810,01/12/21,06/16/21,Required at least part of school year,0.0,305.0,0.0
+Iowa,IA,1913440,01/03/21,12/29/20,Required full school year,0.0,109.0,0.0
+Iowa,IA,1913470,01/03/21,12/29/20,Required full school year,0.0,1201.2,0.0
+Iowa,IA,1914280,01/03/21,12/29/20,Required at least part of school year,0.0,982.4,0.0
+Iowa,IA,1914580,01/03/21,12/29/20,Required full school year,40.0,1333.8,0.0299895036737142
+Iowa,IA,1914640,01/03/21,12/29/20,Required at least part of school year,7.0,3459.6,0.002023355301190889
+Iowa,IA,1914700,01/03/21,12/29/20,Required full school year,594.0,13879.5,0.04279693072517021
+Iowa,IA,1915210,01/03/21,12/29/20,Required at least part of school year,46.0,1099.6,0.04183339396144053
+Iowa,IA,1916110,10/26/20,11/22/20,Required at least part of school year,0.0,595.2,0.0
+Iowa,IA,1916620,01/03/21,12/29/20,Required at least part of school year,31.0,470.7,0.06585935840237944
+Iowa,IA,1916680,01/03/21,12/29/20,Required at least part of school year,0.0,2898.1,0.0
+Iowa,IA,1917460,01/03/21,12/29/20,Required full school year,0.0,596.1,0.0
+Iowa,IA,1917820,01/03/21,12/29/20,Required at least part of school year,0.0,757.5,0.0
+Iowa,IA,1919440,01/03/21,12/29/20,Required full school year,12.0,732.7,0.016377780810700147
+Iowa,IA,1920040,10/26/20,11/22/20,Required full school year,0.0,1317.4,0.0
+Iowa,IA,1920910,01/03/21,12/29/20,Required at least part of school year,89.0,1864.1,0.04774421973070114
+Iowa,IA,1920940,01/14/21,06/16/21,Not required,67.0,3087.6,0.021699702033942222
+Iowa,IA,1921090,01/03/21,12/29/20,Required at least part of school year,0.0,819.5,0.0
+Iowa,IA,1926070,01/03/21,12/29/20,Required full school year,104.0,967.3,0.1075157655329267
+Iowa,IA,1926280,01/03/21,12/29/20,Not required,0.0,540.2,0.0
+Iowa,IA,1926820,10/26/20,11/22/20,Required at least part of school year,0.0,6787.4,0.0
+Iowa,IA,1927390,10/26/20,11/22/20,Required full school year,0.0,2649.3,0.0
+Iowa,IA,1930480,02/05/21,06/16/21,Required at least part of school year,119.0,10137.4,0.0117387101229112
+Iowa,IA,1930510,01/03/21,12/29/20,Required full school year,0.0,11602.7,0.0
+Iowa,IA,1930630,10/26/20,11/23/20,Required full school year,0.0,1680.2,0.0
+Iowa,IA,1930780,01/03/21,12/29/20,Required at least part of school year,143.0,893.0,0.1601343784994401
+Iowa,IA,1930930,01/03/21,12/29/20,Required at least part of school year,507.0,8793.0,0.057659501876492665
+Iowa,IA,1930990,10/26/20,11/20/20,Required at least part of school year,0.0,1206.0,0.0
+Iowa,IA,1931080,01/03/21,12/29/20,Required at least part of school year,37.0,901.6,0.04103815439219166
+Iowa,IA,1931470,01/03/21,12/29/20,Required at least part of school year,0.0,555.0,0.0
+Iowa,IA,1931680,01/03/21,12/29/20,Required at least part of school year,47.0,1140.9,0.04119554737487948
+Iowa,IA,1931830,01/03/21,12/29/20,Required at least part of school year,58.0,371.3,0.15620791812550497
+Iowa,IA,1931860,10/26/20,11/23/20,Required full school year,0.0,1571.1,0.0

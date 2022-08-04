@@ -1,0 +1,17 @@
+StateName,StateAbbrev,NCESDistrictID,TimePeriodStart,TimePeriodEnd,StudentMaskPolicy,ActiveCasesStudents,EnrollmentTotal,PositivityRate
+Florida,FL,1200180,01/04/20,12/14/20,Required full school year,4902,254453.0,0.01926485441319222
+Florida,FL,1200210,01/04/20,12/14/20,Required full school year,84,2020.0,0.041584158415841586
+Florida,FL,1200420,01/04/20,12/14/20,Required full school year,186,4548.0,0.040897097625329816
+Florida,FL,1200480,01/04/20,12/14/20,Required full school year,1462,124694.0,0.011724702070668998
+Florida,FL,1200510,01/04/20,12/14/20,Required full school year,437,37822.0,0.011554121939611866
+Florida,FL,1200570,01/04/20,12/14/20,Required at least part of school year,33,1195.0,0.027615062761506277
+Florida,FL,1200750,01/04/20,12/14/20,Required full school year,184,4892.0,0.03761242845461979
+Florida,FL,1200840,01/04/20,12/14/20,Required full school year,374,11913.0,0.03139427516158818
+Florida,FL,1200960,01/04/20,12/14/20,Required full school year,82,5950.0,0.013781512605042017
+Florida,FL,1200990,01/04/20,12/14/20,Required full school year,7,703.0,0.00995732574679943
+Florida,FL,1201080,01/04/20,12/14/20,Required full school year,2772,93464.0,0.029658478130617137
+Florida,FL,1201260,01/04/20,12/14/20,Required full school year,997,40459.0,0.024642230406090117
+Florida,FL,1201290,01/04/20,12/14/20,Required full school year,355,18019.0,0.01970142627226816
+Florida,FL,1201590,01/04/20,12/14/20,Required full school year,2556,103386.0,0.024722883175671756
+Florida,FL,1201620,01/04/20,12/14/20,Required full school year,290,10073.0,0.028789834210265066
+Florida,FL,1201710,01/04/20,12/14/20,Required full school year,1420,65296.0,0.021747120803724578

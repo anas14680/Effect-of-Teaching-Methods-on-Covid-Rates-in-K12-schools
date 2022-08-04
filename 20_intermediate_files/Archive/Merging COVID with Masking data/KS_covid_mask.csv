@@ -1,0 +1,16 @@
+,StateName,StateAbbrev,NCESDistrictID,TimePeriodStart,TimePeriodEnd,TimePeriodInterval,CovidCases,EnrollmentTotal,StudentMaskPolicy
+0,Kansas,KS,2004410.0,10/28/20,11/11/20,Biweekly,5,712.0,Required full school year
+1,Kansas,KS,2007620.0,10/28/20,11/11/20,Biweekly,5,4005.0,Required full school year
+2,Kansas,KS,2007620.0,10/28/20,11/11/20,Biweekly,5,4005.0,Required full school year
+3,Kansas,KS,2007290.0,04/14/21,04/28/21,Biweekly,11,561.0,Required full school year
+4,Kansas,KS,2007290.0,04/21/21,05/05/21,Biweekly,18,561.0,Required full school year
+5,Kansas,KS,2007290.0,04/28/21,05/12/21,Biweekly,5,561.0,Required full school year
+6,Kansas,KS,2008400.0,03/17/21,03/31/21,Biweekly,7,11295.0,Required full school year
+7,Kansas,KS,2009960.0,10/21/20,11/04/20,Biweekly,5,3157.0,Required full school year
+8,Kansas,KS,2009960.0,10/28/20,11/11/20,Biweekly,7,3157.0,Required full school year
+9,Kansas,KS,2010680.0,02/10/21,02/24/21,Biweekly,6,2487.0,Required full school year
+10,Kansas,KS,2000002.0,10/28/20,11/11/20,Biweekly,9,1258.0,Required full school year
+11,Kansas,KS,2000002.0,11/04/20,11/18/20,Biweekly,5,1258.0,Required full school year
+12,Kansas,KS,2011610.0,11/04/20,11/18/20,Biweekly,5,208.0,Required at least part of school year
+13,Kansas,KS,2012900.0,10/21/20,11/04/20,Biweekly,6,96.0,Required at least part of school year
+14,Kansas,KS,2012900.0,10/28/20,11/11/20,Biweekly,5,96.0,Required at least part of school year

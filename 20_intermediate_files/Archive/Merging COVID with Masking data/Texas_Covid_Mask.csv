@@ -1,0 +1,277 @@
+,NCESDistrictID,Covid Cases,TimePeriodStart,TimePeriodEnd,StateName,StateAbbrev,EnrollmentTotal,StudentMaskPolicy
+0,4800002,0.0,2020-11-30,2021-05-09,Texas,TX,240.0,Required at least part of school year
+1,4800006,0.0,2020-11-30,2021-05-09,Texas,TX,215.0,Required at least part of school year
+2,4800009,7.0,2020-11-30,2021-05-09,Texas,TX,2557.0,Required at least part of school year
+3,4800014,0.0,2020-11-30,2021-05-09,Texas,TX,867.0,Required at least part of school year
+4,4800019,0.0,2020-11-30,2021-05-09,Texas,TX,1073.0,Required full school year
+5,4800025,0.0,2020-11-30,2021-05-09,Texas,TX,221.0,Required full school year
+6,4800031,0.0,2020-11-30,2021-05-09,Texas,TX,87.0,Required full school year
+7,4800034,0.0,2020-11-30,2021-05-09,Texas,TX,1955.0,Required full school year
+8,4800035,0.0,2020-11-30,2021-05-09,Texas,TX,332.0,Required full school year
+9,4800037,5.0,2020-11-30,2021-05-09,Texas,TX,1243.0,Required full school year
+10,4800041,5.0,2020-11-30,2021-05-09,Texas,TX,1208.0,Required full school year
+11,4800042,0.0,2020-11-30,2021-05-09,Texas,TX,821.0,Required full school year
+12,4800049,0.0,2020-11-30,2021-05-09,Texas,TX,215.0,Required full school year
+13,4800055,5.0,2020-11-30,2021-05-09,Texas,TX,5550.0,Required full school year
+14,4800063,0.0,2020-11-30,2021-05-09,Texas,TX,850.0,Required full school year
+15,4800071,0.0,2020-11-30,2021-05-09,Texas,TX,646.0,Required full school year
+16,4800073,0.0,2020-11-30,2021-05-09,Texas,TX,1366.0,Required full school year
+17,4800076,0.0,2020-11-30,2021-05-09,Texas,TX,850.0,Required full school year
+18,4800090,0.0,2020-11-30,2021-05-09,Texas,TX,341.0,Required full school year
+19,4800095,0.0,2020-11-30,2021-05-09,Texas,TX,1382.0,Required full school year
+20,4800109,0.0,2020-11-30,2021-05-09,Texas,TX,138.0,Required at least part of school year
+21,4800115,0.0,2020-11-30,2021-05-09,Texas,TX,172.0,Required full school year
+22,4800132,0.0,2020-11-30,2021-05-09,Texas,TX,99.0,Required full school year
+23,4800141,0.0,2020-11-30,2021-05-09,Texas,TX,274.0,Required full school year
+24,4800174,0.0,2020-11-30,2021-05-09,Texas,TX,244.0,Required full school year
+25,4800186,0.0,2020-11-30,2021-05-09,Texas,TX,543.0,Required full school year
+26,4800187,0.0,2020-11-30,2021-05-09,Texas,TX,616.0,Required full school year
+27,4800203,0.0,2020-11-30,2021-05-09,Texas,TX,1456.0,Required full school year
+28,4800210,0.0,2020-11-30,2021-05-09,Texas,TX,3669.0,Required full school year
+29,4800211,0.0,2020-11-30,2021-05-09,Texas,TX,62247.0,Required full school year
+30,4800227,0.0,2020-11-30,2021-05-09,Texas,TX,235.0,Required at least part of school year
+31,4800232,0.0,2020-11-30,2021-05-09,Texas,TX,497.0,Required full school year
+32,4800252,0.0,2020-11-30,2021-05-09,Texas,TX,126.0,Required full school year
+33,4800264,5.0,2020-11-30,2021-05-09,Texas,TX,31243.0,Required full school year
+34,4800268,6.0,2020-11-30,2021-05-09,Texas,TX,3091.0,Required full school year
+35,4800270,0.0,2020-11-30,2021-05-09,Texas,TX,1018.0,Required full school year
+36,4800279,0.0,2020-11-30,2021-05-09,Texas,TX,116.0,Required full school year
+37,4801395,0.0,2020-11-30,2021-05-09,Texas,TX,255.0,Required full school year
+38,4801404,0.0,2020-11-30,2021-05-09,Texas,TX,66.0,Required full school year
+39,4801409,0.0,2020-11-30,2021-05-09,Texas,TX,2863.0,Required full school year
+40,4801416,0.0,2020-11-30,2021-05-09,Texas,TX,686.0,Required full school year
+41,4801418,0.0,2020-11-30,2021-05-09,Texas,TX,185.0,Required full school year
+42,4801425,47.0,2020-11-30,2021-05-09,Texas,TX,1270.0,Required full school year
+43,4801427,0.0,2020-11-30,2021-05-09,Texas,TX,826.0,Required at least part of school year
+44,4801431,6.0,2020-11-30,2021-05-09,Texas,TX,2150.0,Required full school year
+45,4801434,0.0,2020-11-30,2021-05-09,Texas,TX,429.0,Required full school year
+46,4801435,0.0,2020-11-30,2021-05-09,Texas,TX,466.0,Required full school year
+47,4801440,124.0,2020-11-30,2021-05-09,Texas,TX,20864.0,Required full school year
+48,4801442,0.0,2020-11-30,2021-05-09,Texas,TX,446.0,Required full school year
+49,4801447,6.0,2020-11-30,2021-05-09,Texas,TX,209.0,Required full school year
+50,4801453,0.0,2020-11-30,2021-05-09,Texas,TX,153.0,Required full school year
+51,4801454,0.0,2020-11-30,2021-05-09,Texas,TX,400.0,Required full school year
+52,4801457,0.0,2020-11-30,2021-05-09,Texas,TX,1155.0,Required full school year
+53,4801458,0.0,2020-11-30,2021-05-09,Texas,TX,3.0,Required full school year
+54,4801473,0.0,2020-11-30,2021-05-09,Texas,TX,373.0,Required at least part of school year
+55,4807410,0.0,2020-11-30,2021-05-09,Texas,TX,805.0,Required at least part of school year
+56,4807780,0.0,2020-11-30,2021-05-09,Texas,TX,6716.0,Required at least part of school year
+57,4808460,0.0,2020-11-30,2021-05-09,Texas,TX,184.0,Required full school year
+58,4808580,5.0,2020-11-30,2021-05-09,Texas,TX,1641.0,Required full school year
+59,4809030,0.0,2020-11-30,2021-05-09,Texas,TX,332.0,Required full school year
+60,4809280,0.0,2020-11-30,2021-05-09,Texas,TX,263.0,Required at least part of school year
+61,4809390,0.0,2020-11-30,2021-05-09,Texas,TX,836.0,Required at least part of school year
+62,4810140,0.0,2020-11-30,2021-05-09,Texas,TX,642.0,Required at least part of school year
+63,4810170,0.0,2020-11-30,2021-05-09,Texas,TX,526.0,Required at least part of school year
+64,4810380,0.0,2020-11-30,2021-05-09,Texas,TX,142.0,Required at least part of school year
+65,4810590,0.0,2020-11-30,2021-05-09,Texas,TX,864.0,Required at least part of school year
+66,4810800,0.0,2020-11-30,2021-05-09,Texas,TX,1796.0,Required full school year
+67,4810990,6.0,2020-11-30,2021-05-09,Texas,TX,1693.0,Required at least part of school year
+68,4811010,5.0,2020-11-30,2021-05-09,Texas,TX,1265.0,Required full school year
+69,4811250,0.0,2020-11-30,2021-05-09,Texas,TX,495.0,Required full school year
+70,4811280,10.0,2020-11-30,2021-05-09,Texas,TX,5001.0,Required full school year
+71,4811460,0.0,2020-11-30,2021-05-09,Texas,TX,1765.0,Required at least part of school year
+72,4811790,173.0,2020-11-30,2021-05-09,Texas,TX,15866.0,Required full school year
+73,4812060,5.0,2020-11-30,2021-05-09,Texas,TX,2653.0,Required at least part of school year
+74,4812240,0.0,2020-11-30,2021-05-09,Texas,TX,479.0,Required at least part of school year
+75,4812420,0.0,2020-11-30,2021-05-09,Texas,TX,3967.0,Required full school year
+76,4812460,0.0,2020-11-30,2021-05-09,Texas,TX,1707.0,Not required
+77,4812510,0.0,2020-11-30,2021-05-09,Texas,TX,1136.0,Required at least part of school year
+78,4812870,0.0,2020-11-30,2021-05-09,Texas,TX,567.0,Required full school year
+79,4813230,0.0,2020-11-30,2021-05-09,Texas,TX,7273.0,Required full school year
+80,4813320,0.0,2020-11-30,2021-05-09,Texas,TX,2492.0,Required at least part of school year
+81,4813440,23.0,2020-11-30,2021-05-09,Texas,TX,1119.0,Required at least part of school year
+82,4813980,0.0,2020-11-30,2021-05-09,Texas,TX,394.0,Required at least part of school year
+83,4814070,0.0,2020-11-30,2021-05-09,Texas,TX,840.0,Required full school year
+84,4814130,0.0,2020-11-30,2021-05-09,Texas,TX,1022.0,Required full school year
+85,4814250,6.0,2020-11-30,2021-05-09,Texas,TX,316.0,Required at least part of school year
+86,4814430,0.0,2020-11-30,2021-05-09,Texas,TX,10679.0,Required full school year
+87,4814450,0.0,2020-11-30,2021-05-09,Texas,TX,1395.0,Required at least part of school year
+88,4814520,0.0,2020-11-30,2021-05-09,Texas,TX,1530.0,Required at least part of school year
+89,4814700,0.0,2020-11-30,2021-05-09,Texas,TX,1526.0,Required at least part of school year
+90,4815180,0.0,2020-11-30,2021-05-09,Texas,TX,7173.0,Required at least part of school year
+91,4815400,7.0,2020-11-30,2021-05-09,Texas,TX,1265.0,Required full school year
+92,4815570,0.0,2020-11-30,2021-05-09,Texas,TX,129.0,Required at least part of school year
+93,4815690,0.0,2020-11-30,2021-05-09,Texas,TX,764.0,Required at least part of school year
+94,4815720,0.0,2020-11-30,2021-05-09,Texas,TX,1269.0,Required at least part of school year
+95,4815870,0.0,2020-11-30,2021-05-09,Texas,TX,201.0,Required full school year
+96,4815960,0.0,2020-11-30,2021-05-09,Texas,TX,1909.0,Required full school year
+97,4816230,39.0,2020-11-30,2021-05-09,Texas,TX,145519.0,Required full school year
+98,4816290,0.0,2020-11-30,2021-05-09,Texas,TX,756.0,Required full school year
+99,4816320,0.0,2020-11-30,2021-05-09,Texas,TX,139.0,Required at least part of school year
+100,4816350,0.0,2020-11-30,2021-05-09,Texas,TX,153.0,Required at least part of school year
+101,4816380,0.0,2020-11-30,2021-05-09,Texas,TX,509.0,Required at least part of school year
+102,4816890,0.0,2020-11-30,2021-05-09,Texas,TX,514.0,Required at least part of school year
+103,4817010,0.0,2020-11-30,2021-05-09,Texas,TX,531.0,Required full school year
+104,4817040,22.0,2020-11-30,2021-05-09,Texas,TX,1675.0,Required full school year
+105,4817070,39.0,2020-11-30,2021-05-09,Texas,TX,11634.0,Required full school year
+106,4817100,8.0,2020-11-30,2021-05-09,Texas,TX,938.0,Required full school year
+107,4817130,0.0,2020-11-30,2021-05-09,Texas,TX,165.0,Required full school year
+108,4817390,0.0,2020-11-30,2021-05-09,Texas,TX,13856.0,Required at least part of school year
+109,4817700,414.0,2020-11-30,2021-05-09,Texas,TX,21327.0,Required full school year
+110,4817830,6.0,2020-11-30,2021-05-09,Texas,TX,920.0,Required full school year
+111,4818060,0.0,2020-11-30,2021-05-09,Texas,TX,4540.0,Required full school year
+112,4818070,0.0,2020-11-30,2021-05-09,Texas,TX,233.0,Required full school year
+113,4818180,0.0,2020-11-30,2021-05-09,Texas,TX,32840.0,Required full school year
+114,4818360,0.0,2020-11-30,2021-05-09,Texas,TX,4640.0,Required full school year
+115,4818390,0.0,2020-11-30,2021-05-09,Texas,TX,1200.0,Required at least part of school year
+116,4818660,0.0,2020-11-30,2021-05-09,Texas,TX,91.0,Required full school year
+117,4818890,0.0,2020-11-30,2021-05-09,Texas,TX,77.0,Not required
+118,4819140,0.0,2020-11-30,2021-05-09,Texas,TX,275.0,Required full school year
+119,4819350,33.0,2020-11-30,2021-05-09,Texas,TX,3993.0,Required full school year
+120,4819440,0.0,2020-11-30,2021-05-09,Texas,TX,705.0,Required full school year
+121,4819620,0.0,2020-11-30,2021-05-09,Texas,TX,777.0,Required at least part of school year
+122,4819700,170.0,2020-11-30,2021-05-09,Texas,TX,77276.0,Required at least part of school year
+123,4819830,29.0,2020-11-30,2021-05-09,Texas,TX,10366.0,Required at least part of school year
+124,4820600,0.0,2020-11-30,2021-05-09,Texas,TX,11871.0,Required full school year
+125,4820640,5.0,2020-11-30,2021-05-09,Texas,TX,1913.0,Required full school year
+126,4820970,0.0,2020-11-30,2021-05-09,Texas,TX,133.0,Required at least part of school year
+127,4821090,0.0,2020-11-30,2021-05-09,Texas,TX,254.0,Required full school year
+128,4821330,0.0,2020-11-30,2021-05-09,Texas,TX,317.0,Required at least part of school year
+129,4821360,0.0,2020-11-30,2021-05-09,Texas,TX,2284.0,Required at least part of school year
+130,4821390,88.0,2020-11-30,2021-05-09,Texas,TX,7471.0,Required at least part of school year
+131,4821480,0.0,2020-11-30,2021-05-09,Texas,TX,166.0,Required at least part of school year
+132,4821540,0.0,2020-11-30,2021-05-09,Texas,TX,1339.0,Required at least part of school year
+133,4821750,5.0,2020-11-30,2021-05-09,Texas,TX,2848.0,Required at least part of school year
+134,4821780,0.0,2020-11-30,2021-05-09,Texas,TX,4713.0,Required full school year
+135,4821930,0.0,2020-11-30,2021-05-09,Texas,TX,439.0,Required at least part of school year
+136,4821990,0.0,2020-11-30,2021-05-09,Texas,TX,147.0,Required full school year
+137,4822230,0.0,2020-11-30,2021-05-09,Texas,TX,794.0,Required full school year
+138,4822320,0.0,2020-11-30,2021-05-09,Texas,TX,1849.0,Required full school year
+139,4822380,0.0,2020-11-30,2021-05-09,Texas,TX,1213.0,Required at least part of school year
+140,4822470,38.0,2020-11-30,2021-05-09,Texas,TX,12459.0,Required full school year
+141,4822590,0.0,2020-11-30,2021-05-09,Texas,TX,577.0,Required full school year
+142,4822740,0.0,2020-11-30,2021-05-09,Texas,TX,550.0,Not required
+143,4822830,0.0,2020-11-30,2021-05-09,Texas,TX,727.0,Required full school year
+144,4822970,6.0,2020-11-30,2021-05-09,Texas,TX,3345.0,Required full school year
+145,4823010,10.0,2020-11-30,2021-05-09,Texas,TX,3878.0,Required full school year
+146,4823280,0.0,2020-11-30,2021-05-09,Texas,TX,1877.0,Required full school year
+147,4823400,6.0,2020-11-30,2021-05-09,Texas,TX,1042.0,Required at least part of school year
+148,4823430,11.0,2020-11-30,2021-05-09,Texas,TX,1825.0,Required full school year
+149,4824000,0.0,2020-11-30,2021-05-09,Texas,TX,1573.0,Required full school year
+150,4824030,59.0,2020-11-30,2021-05-09,Texas,TX,10883.0,Required full school year
+151,4824100,0.0,2020-11-30,2021-05-09,Texas,TX,8432.0,Required full school year
+152,4824150,0.0,2020-11-30,2021-05-09,Texas,TX,1198.0,Required at least part of school year
+153,4824450,0.0,2020-11-30,2021-05-09,Texas,TX,617.0,Required full school year
+154,4824480,0.0,2020-11-30,2021-05-09,Texas,TX,616.0,Required full school year
+155,4824750,0.0,2020-11-30,2021-05-09,Texas,TX,1130.0,Required full school year
+156,4825140,5.0,2020-11-30,2021-05-09,Texas,TX,1233.0,Required full school year
+157,4825170,1527.0,2020-11-30,2021-05-09,Texas,TX,84450.0,Required full school year
+158,4825500,0.0,2020-11-30,2021-05-09,Texas,TX,2881.0,Required full school year
+159,4825530,0.0,2020-11-30,2021-05-09,Texas,TX,572.0,Required at least part of school year
+160,4826100,12.0,2020-11-30,2021-05-09,Texas,TX,1874.0,Required full school year
+161,4826310,0.0,2020-11-30,2021-05-09,Texas,TX,3192.0,Required full school year
+162,4826340,0.0,2020-11-30,2021-05-09,Texas,TX,597.0,Required full school year
+163,4826370,0.0,2020-11-30,2021-05-09,Texas,TX,888.0,Required full school year
+164,4827090,6.0,2020-11-30,2021-05-09,Texas,TX,159.0,Required at least part of school year
+165,4827120,0.0,2020-11-30,2021-05-09,Texas,TX,204.0,Required full school year
+166,4827240,0.0,2020-11-30,2021-05-09,Texas,TX,2811.0,Required full school year
+167,4827890,0.0,2020-11-30,2021-05-09,Texas,TX,454.0,Required at least part of school year
+168,4827930,0.0,2020-11-30,2021-05-09,Texas,TX,104.0,Required full school year
+169,4828200,8.0,2020-11-30,2021-05-09,Texas,TX,1742.0,Required full school year
+170,4828350,0.0,2020-11-30,2021-05-09,Texas,TX,484.0,Required at least part of school year
+171,4828620,15.0,2020-11-30,2021-05-09,Texas,TX,1450.0,Required full school year
+172,4828800,0.0,2020-11-30,2021-05-09,Texas,TX,165.0,Required full school year
+173,4829040,0.0,2020-11-30,2021-05-09,Texas,TX,293.0,Required full school year
+174,4829460,0.0,2020-11-30,2021-05-09,Texas,TX,468.0,Required at least part of school year
+175,4829520,0.0,2020-11-30,2021-05-09,Texas,TX,253.0,Required at least part of school year
+176,4829760,0.0,2020-11-30,2021-05-09,Texas,TX,334.0,Required full school year
+177,4829820,0.0,2020-11-30,2021-05-09,Texas,TX,1483.0,Required full school year
+178,4830340,0.0,2020-11-30,2021-05-09,Texas,TX,1094.0,Required at least part of school year
+179,4830570,192.0,2020-11-30,2021-05-09,Texas,TX,25703.0,Required full school year
+180,4830600,98.0,2020-11-30,2021-05-09,Texas,TX,9841.0,Required full school year
+181,4830660,0.0,2020-11-30,2021-05-09,Texas,TX,131.0,Required at least part of school year
+182,4830810,0.0,2020-11-30,2021-05-09,Texas,TX,306.0,Required at least part of school year
+183,4830930,0.0,2020-11-30,2021-05-09,Texas,TX,1587.0,Required at least part of school year
+184,4831040,0.0,2020-11-30,2021-05-09,Texas,TX,15064.0,Required full school year
+185,4831200,0.0,2020-11-30,2021-05-09,Texas,TX,152.0,Required full school year
+186,4831380,0.0,2020-11-30,2021-05-09,Texas,TX,134.0,Required full school year
+187,4831500,0.0,2020-11-30,2021-05-09,Texas,TX,166.0,Not required
+188,4831560,0.0,2020-11-30,2021-05-09,Texas,TX,286.0,Required full school year
+189,4831860,0.0,2020-11-30,2021-05-09,Texas,TX,523.0,Required full school year
+190,4831950,0.0,2020-11-30,2021-05-09,Texas,TX,615.0,Required full school year
+191,4831970,0.0,2020-11-30,2021-05-09,Texas,TX,396.0,Required at least part of school year
+192,4832130,0.0,2020-11-30,2021-05-09,Texas,TX,1015.0,Required full school year
+193,4832310,0.0,2020-11-30,2021-05-09,Texas,TX,3305.0,Required full school year
+194,4832640,11.0,2020-11-30,2021-05-09,Texas,TX,1035.0,Required full school year
+195,4832740,0.0,2020-11-30,2021-05-09,Texas,TX,1016.0,Required at least part of school year
+196,4833120,607.0,2020-11-30,2021-05-09,Texas,TX,103188.0,Required full school year
+197,4833240,0.0,2020-11-30,2021-05-09,Texas,TX,245.0,Required at least part of school year
+198,4833340,0.0,2020-11-30,2021-05-09,Texas,TX,193.0,Required full school year
+199,4833390,5.0,2020-11-30,2021-05-09,Texas,TX,298.0,Required at least part of school year
+200,4833420,0.0,2020-11-30,2021-05-09,Texas,TX,185.0,Required full school year
+201,4833630,0.0,2020-11-30,2021-05-09,Texas,TX,704.0,Required at least part of school year
+202,4833690,0.0,2020-11-30,2021-05-09,Texas,TX,1180.0,Required full school year
+203,4833780,11.0,2020-11-30,2021-05-09,Texas,TX,1791.0,Required full school year
+204,4833900,0.0,2020-11-30,2021-05-09,Texas,TX,183.0,Required at least part of school year
+205,4834020,0.0,2020-11-30,2021-05-09,Texas,TX,1300.0,Required full school year
+206,4834110,0.0,2020-11-30,2021-05-09,Texas,TX,1251.0,Required at least part of school year
+207,4834230,0.0,2020-11-30,2021-05-09,Texas,TX,670.0,Required at least part of school year
+208,4834290,9.0,2020-11-30,2021-05-09,Texas,TX,3846.0,Required full school year
+209,4834380,0.0,2020-11-30,2021-05-09,Texas,TX,92.0,Required full school year
+210,4834500,0.0,2020-11-30,2021-05-09,Texas,TX,1381.0,Not required
+211,4835040,0.0,2020-11-30,2021-05-09,Texas,TX,431.0,Required at least part of school year
+212,4835070,28.0,2020-11-30,2021-05-09,Texas,TX,4822.0,Required at least part of school year
+213,4835370,6.0,2020-11-30,2021-05-09,Texas,TX,502.0,Required full school year
+214,4835550,0.0,2020-11-30,2021-05-09,Texas,TX,840.0,Required at least part of school year
+215,4835730,0.0,2020-11-30,2021-05-09,Texas,TX,153.0,Required at least part of school year
+216,4835850,11.0,2020-11-30,2021-05-09,Texas,TX,5853.0,Required at least part of school year
+217,4836480,0.0,2020-11-30,2021-05-09,Texas,TX,351.0,Required at least part of school year
+218,4836930,0.0,2020-11-30,2021-05-09,Texas,TX,649.0,Required full school year
+219,4836970,0.0,2020-11-30,2021-05-09,Texas,TX,1226.0,Required full school year
+220,4837020,392.0,2020-11-30,2021-05-09,Texas,TX,37824.0,Required full school year
+221,4837080,0.0,2020-11-30,2021-05-09,Texas,TX,112.0,Required at least part of school year
+222,4837170,0.0,2020-11-30,2021-05-09,Texas,TX,1732.0,Required full school year
+223,4837200,0.0,2020-11-30,2021-05-09,Texas,TX,771.0,Required at least part of school year
+224,4837230,0.0,2020-11-30,2021-05-09,Texas,TX,186.0,Not required
+225,4837710,0.0,2020-11-30,2021-05-09,Texas,TX,891.0,Required at least part of school year
+226,4837860,0.0,2020-11-30,2021-05-09,Texas,TX,681.0,Required full school year
+227,4838040,0.0,2020-11-30,2021-05-09,Texas,TX,238.0,Required at least part of school year
+228,4838080,0.0,2020-11-30,2021-05-09,Texas,TX,48334.0,Required full school year
+229,4838430,0.0,2020-11-30,2021-05-09,Texas,TX,426.0,Required full school year
+230,4838580,5.0,2020-11-30,2021-05-09,Texas,TX,2106.0,Required full school year
+231,4838730,108.0,2020-11-30,2021-05-09,Texas,TX,45857.0,Required full school year
+232,4838820,0.0,2020-11-30,2021-05-09,Texas,TX,1489.0,Required full school year
+233,4838850,0.0,2020-11-30,2021-05-09,Texas,TX,3195.0,Required full school year
+234,4838970,17.0,2020-11-30,2021-05-09,Texas,TX,8065.0,Required full school year
+235,4839000,0.0,2020-11-30,2021-05-09,Texas,TX,232.0,Required full school year
+236,4839120,0.0,2020-11-30,2021-05-09,Texas,TX,263.0,Required at least part of school year
+237,4839690,0.0,2020-11-30,2021-05-09,Texas,TX,6893.0,Required full school year
+238,4840290,0.0,2020-11-30,2021-05-09,Texas,TX,188.0,Required at least part of school year
+239,4840350,0.0,2020-11-30,2021-05-09,Texas,TX,2115.0,Required full school year
+240,4840410,0.0,2020-11-30,2021-05-09,Texas,TX,814.0,Required full school year
+241,4840590,0.0,2020-11-30,2021-05-09,Texas,TX,412.0,Required at least part of school year
+242,4840650,8.0,2020-11-30,2021-05-09,Texas,TX,2607.0,Required at least part of school year
+243,4840770,0.0,2020-11-30,2021-05-09,Texas,TX,518.0,Required full school year
+244,4841070,52.0,2020-11-30,2021-05-09,Texas,TX,4173.0,Required full school year
+245,4841580,0.0,2020-11-30,2021-05-09,Texas,TX,673.0,Required full school year
+246,4841790,0.0,2020-11-30,2021-05-09,Texas,TX,218.0,Required at least part of school year
+247,4842280,5.0,2020-11-30,2021-05-09,Texas,TX,2931.0,Required full school year
+248,4842420,0.0,2020-11-30,2021-05-09,Texas,TX,121.0,Required full school year
+249,4842450,0.0,2020-11-30,2021-05-09,Texas,TX,5207.0,Required full school year
+250,4842540,0.0,2020-11-30,2021-05-09,Texas,TX,171.0,Not required
+251,4842570,0.0,2020-11-30,2021-05-09,Texas,TX,199.0,Not required
+252,4842660,0.0,2020-11-30,2021-05-09,Texas,TX,779.0,Required full school year
+253,4842720,0.0,2020-11-30,2021-05-09,Texas,TX,215.0,Required at least part of school year
+254,4843200,0.0,2020-11-30,2021-05-09,Texas,TX,1160.0,Required at least part of school year
+255,4843230,0.0,2020-11-30,2021-05-09,Texas,TX,1014.0,Required at least part of school year
+256,4843470,18.0,2020-11-30,2021-05-09,Texas,TX,17709.0,Required full school year
+257,4843560,0.0,2020-11-30,2021-05-09,Texas,TX,305.0,Required at least part of school year
+258,4843860,0.0,2020-11-30,2021-05-09,Texas,TX,884.0,Required full school year
+259,4843950,10.0,2020-11-30,2021-05-09,Texas,TX,1056.0,Required full school year
+260,4844010,40.0,2020-11-30,2021-05-09,Texas,TX,2216.0,Required at least part of school year
+261,4844250,0.0,2020-11-30,2021-05-09,Texas,TX,107.0,Required full school year
+262,4844410,0.0,2020-11-30,2021-05-09,Texas,TX,1257.0,Required full school year
+263,4844670,0.0,2020-11-30,2021-05-09,Texas,TX,811.0,Required full school year
+264,4845090,0.0,2020-11-30,2021-05-09,Texas,TX,2516.0,Required full school year
+265,4845240,0.0,2020-11-30,2021-05-09,Texas,TX,59.0,Required at least part of school year
+266,4845420,0.0,2020-11-30,2021-05-09,Texas,TX,415.0,Required at least part of school year
+267,4845450,0.0,2020-11-30,2021-05-09,Texas,TX,372.0,Required at least part of school year
+268,4845600,16.0,2020-11-30,2021-05-09,Texas,TX,4758.0,Required at least part of school year
+269,4846200,0.0,2020-11-30,2021-05-09,Texas,TX,1467.0,Required at least part of school year
+270,4846260,0.0,2020-11-30,2021-05-09,Texas,TX,543.0,Required at least part of school year
+271,4846350,0.0,2020-11-30,2021-05-09,Texas,TX,638.0,Required full school year
+272,4846380,10.0,2020-11-30,2021-05-09,Texas,TX,426.0,Required full school year
+273,4846440,0.0,2020-11-30,2021-05-09,Texas,TX,1238.0,Required full school year
+274,4846470,0.0,2020-11-30,2021-05-09,Texas,TX,496.0,Required full school year
+275,4899130,0.0,2020-11-30,2021-05-09,Texas,TX,247.0,Required full school year
